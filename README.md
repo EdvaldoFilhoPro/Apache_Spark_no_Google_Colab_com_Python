@@ -1,4 +1,4 @@
-# README - Executando Apache Spark no Google Colab
+# Executando Apache Spark no Google Colab
 
 Este é um guia passo a passo para configurar e executar o Apache Spark no ambiente do Google Colab usando Python.
 
